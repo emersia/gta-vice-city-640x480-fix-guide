@@ -24,8 +24,8 @@ Right-click `gta-vc.exe` → Properties → Compatibility tab:
 ### 3. Install SilentPatch + ASI Loader
 
 #### 📦 Download:
-- [SilentPatch for GTA VC](https://github.com/CookiePLMonster/SilentPatch/releases) (dinput8-Win32.zip already provided above)
-- [Ultimate ASI Loader (Win32)](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
+- [SilentPatch for GTA VC](https://github.com/CookiePLMonster/SilentPatch/releases) ---already provided above
+- [Ultimate ASI Loader (Win32)](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases) ---already provided above
 
 #### 📁 Install Instructions:
 Extract and place into your game folder:
